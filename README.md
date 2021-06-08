@@ -29,4 +29,4 @@ In oder to use this tutorial, you need to download the dataset on you drive or l
 #### Want to know more about us?
 - Twitter : https://twitter.com/WiMLDS_Yaounde
 - LinkedIn: https://www.linkedin.com/company/wimlds-yaounde/
-- Facebook: https://www.facebook.com/Wimlds-Yaounde
+- Facebook: https://www.facebook.com/WimldsYde/
